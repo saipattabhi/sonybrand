@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23459" started-at="2022-01-24T10:54:10 IST" finished-at="2022-01-24T10:54:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23459" started-at="2022-01-24T10:54:10 IST" finished-at="2022-01-24T10:54:33 IST">
+      <class name="great.itindustry">
+        <test-method status="PASS" signature="itindustry()[pri:0, instance:great.itindustry@167fdd33]" name="itindustry" duration-ms="23413" started-at="2022-01-24T10:54:10 IST" finished-at="2022-01-24T10:54:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- itindustry -->
+      </class> <!-- great.itindustry -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
